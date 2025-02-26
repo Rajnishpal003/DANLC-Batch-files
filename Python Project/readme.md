@@ -7,7 +7,9 @@
 |   |-- Swiggy_EDA                             # Python file for cleaning and trasforming raw data for analysis  
 
 |  |-- Swiggy_cleaned_dataset.csv     # cleaned dataset used for Swiggy analysis in excel 
+
 |  |-- Swiggy_Dataset.csv             # Raw dataset used for Swiggy analysis   
+
 |  |-- README.md                      # Project overview and instructions  
 
 
@@ -17,6 +19,7 @@ The dataset provides insights into swiggy restaurant, delivery of time, average 
 
 🚀 Key Components
 🔹 Excel Dashboard: Interactive visualization of Swiggy data.
+
 🔹 Jupyter Notebook: To perform EDA on raw data for cleaning and transformation.
 
 📊 How to Use
