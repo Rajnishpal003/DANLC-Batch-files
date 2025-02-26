@@ -2,11 +2,15 @@
  Data analysis Python with Excel Project🎯
 📊 Swiggy Data Analysis Project
 📂 Project Structure 
-|   |-- Swiggy Dashboard.xlsx      # Excel dashboard for swiggy data analysis  
-|   |-- Swiggy_EDA                 # Python file for cleaning and trasforming raw data for analysis  
-|-- Swiggy_cleaned_dataset.csv     # cleaned dataset used for Swiggy analysis in excel 
-|-- Swiggy_Dataset.csv             # Raw dataset used for Swiggy analysis   
-|-- README.md                      # Project overview and instructions  
+|   |-- Swiggy Dashboard.xlsx                  # Excel dashboard for swiggy data analysis  
+
+|   |-- Swiggy_EDA                             # Python file for cleaning and trasforming raw data for analysis  
+
+|  |-- Swiggy_cleaned_dataset.csv     # cleaned dataset used for Swiggy analysis in excel 
+|  |-- Swiggy_Dataset.csv             # Raw dataset used for Swiggy analysis   
+|  |-- README.md                      # Project overview and instructions  
+
+
 📌 Project Overview
 This project focuses on analyzing swiggy sales data using Excel for visualization and Python for clenaing and transformation. 
 The dataset provides insights into swiggy restaurant, delivery of time, average rating.
