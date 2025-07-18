@@ -36,7 +36,7 @@ Python Analysis
 Run Jupyter notebook to see how eda perform  the dataset.
 
 
-✅ Author: Shivangi Singh
+✅ Author: Rajnish Pal Singh
 
 
 📅 Last Updated: 26-02-2025
